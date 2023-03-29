@@ -1,1 +1,2 @@
-print ('Hi! This is my text')
+def some_function(number: int|float)-> None:
+    pass
